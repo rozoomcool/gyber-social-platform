@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ed11d7d-b346-4196-976c-063f82ce31c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/sub_server_mc/gyber.social.subcore/src/main/java/dao/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/sub_server_mc/gyber.social.subcore/src/main/java/dao/UserData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/sub_server_mc/gyber.social.subcore/src/main/java/dao/UsersPosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/sub_server_mc/gyber.social.subcore/src/main/java/security/UserDataSecurity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/back/sub_server_mc/gyber.social.subcore/src/main/java/tcpip/PowerSuplerHttpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitingnore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitingnore" afterDir="false" />
-    </list>
+    <list default="true" id="1ed11d7d-b346-4196-976c-063f82ce31c1" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
