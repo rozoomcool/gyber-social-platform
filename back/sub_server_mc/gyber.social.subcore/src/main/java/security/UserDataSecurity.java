@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 import javax.annotation.PreDestroy;
 
-@Configuration
+@Component
 public class UserDataSecurity {
     @Bean(initMethod = "init", destroyMethod = "destroy")
 
